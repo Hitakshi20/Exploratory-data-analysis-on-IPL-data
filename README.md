@@ -4,10 +4,6 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "collapsed_sections": [],
-      "toc_visible": true,
-      "mount_file_id": "100Qg70iJifryyHXKt7tE5x3lsmzXNOkV",
-      "authorship_tag": "ABX9TyOzP9c5PZdqRMrc9CqzCJgt",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -26,7 +22,6 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/drive/1ftlAK-DW__N9iYm13rDQO9Sjx51RdbZ_#scrollTo=776K7oveu6ge"/></a>"
+        "<a href=\""/></a>"
       ]
     },
-# Exploratory-data-analysis-on-IPL-data
